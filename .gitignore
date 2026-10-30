@@ -1,0 +1,14 @@
+.lake/
+*.olean
+*.ilean
+*.olean.private
+*.olean.server
+*.trace
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+LOCAL_SETUP.md
+scratch/
+# Redundant raster export; use the versioned SVG/HTML instead.
+dependency_graph.png

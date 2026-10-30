@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite the paper (preferred citation) and this repository."
+title: "Lean 4 formalization of the global convergence of the Davis-Yin splitting for the Gross-Pitaevskii ground state"
+authors:
+  - family-names: Zhang
+    given-names: Xiangxiong
+repository-code: "https://github.com/zhan1966/GPE_DYS"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "Global convergence of an efficient splitting method for the defocusing Gross-Pitaevskii ground state problem"
+  authors:
+    - family-names: Li
+      given-names: Jiaxing
+    - family-names: Zheng
+      given-names: Shixin
+    - family-names: Zhang
+      given-names: Xiangxiong
+  year: 2026
+  journal: "arXiv preprint arXiv:2609.13509"
+  url: "https://arxiv.org/abs/2609.13509"
